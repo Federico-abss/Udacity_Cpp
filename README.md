@@ -1,7 +1,7 @@
 ## C++ Nanodegree Program
 
 * First Assignment:
-  * [Route Planning Project using OpenStreetMap](/CppND-Route-Planning-Project)
+  * [Route Planning using OpenStreetMap](/CppND-Route-Planning-Project)
 * Second Assignment:
   * [Linux System Monitor](/CppND-System-Monitor)
 * Third Assignment:
