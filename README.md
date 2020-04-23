@@ -1,5 +1,7 @@
 ## C++ Nanodegree Program
 
+Refer [here](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) for more informations on Udacity and this specific program.
+
 * First Assignment:
   * [Route Planning using OpenStreetMap](/CppND-Route-Planning-Project)
 * Second Assignment:
