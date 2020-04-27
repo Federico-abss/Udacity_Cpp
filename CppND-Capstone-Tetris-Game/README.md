@@ -4,6 +4,8 @@ A simple tetris game in sdl, reutilized the snake game cmake files to make the b
 
 I tried sticking to a game, renderer, controller model but it was simpler for me in the end to just relegate the graphic of each object (shapes, well and game), to its own file with game.cpp acting as a controller also.
 
+![Tetris](https://github.com/Federico-abss/Udacity_Cpp/blob/master/CppND-Capstone-Tetris-Game/1.png)
+
 
 ## Rubric Points Specified
 some examples of my code following the rubric:
