@@ -12,3 +12,6 @@ Refer [here](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) for m
   * [Concurrent Traffic Simulation](/CppND-Concurrent-Traffic-Simulation)
 * Capstone Project:
   * [Tetris Game using SDL](/CppND-Capstone-Tetris-Game)
+
+## Certificate
+  ![Certificate Of completion](/Udacity%20Nanodegree.jpg)
